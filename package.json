@@ -1,0 +1,23 @@
+{
+  "name": "metalsmith-filetype-marker",
+  "version": "0.0.1",
+  "description": "A Metalsmith plugin to convert markdown files.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/boushley/metalsmith-filetype-marker.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "filetype"
+  ],
+  "author": "Aaron Boushley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boushley/metalsmith-filetype-marker/issues"
+  },
+  "homepage": "https://github.com/boushley/metalsmith-filetype-marker"
+}
